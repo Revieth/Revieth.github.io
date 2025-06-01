@@ -1,0 +1,57 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 40px 0;
+  color: #212529;
+}
+
+.resume-container {
+  max-width: 800px;
+  background: white;
+  padding: 30px 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 3px solid #6c757d;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.5rem;
+  border-bottom: 2px solid #6c757d;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+ul li ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
