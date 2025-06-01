@@ -1,7 +1,7 @@
 body{
-    background-color: #a3cadb;
+    background-color: #000000;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(background-2.jpg);
+    background-image: url(../../ImagesMidterm/BackgroundRegistration.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -10,7 +10,7 @@ body{
 .container-fluid{
     display: grid;
     animation: fadeIn 1s;
-    background-color: rgba(0, 0, 0, 0.26);
+    background-color: rgba(211, 242, 247, 0.63);
     min-height: 100vh;
     max-width: 800px;
     animation: fadeInAnimation ease 1s;
@@ -27,7 +27,7 @@ body{
     }
 }
 .header{
-    background-color: rgba(48, 204, 252, 0.705);
+    background-color: rgb(171, 233, 252);
     border-radius: 5px;
     padding: 10px;
     text-align: center;
