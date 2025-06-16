@@ -11,9 +11,8 @@
 
 <body style="margin: 0; padding: 40px 0; color: #212529; position: relative; min-height: 100vh;">
 
-  <!-- Blurred background layer -->
   <div style="
-    background: url('/ThirdSemFinals/ThirdSem_Img/BackgroundAxzel.png') no-repeat center center fixed;
+    background: url('/ThirdSemFinals/ThirdSem_Img/BackgroundAxzel1.png') no-repeat center center fixed;
     background-size: cover;
     filter: blur(10px);
     position: fixed;
@@ -22,13 +21,13 @@
     z-index: -1;
   "></div>
 
-  <!-- Main content -->
+  
   <div class="container text-center" style="position: relative; z-index: 1;">
     <img src="/ThirdSemFinals/ThirdSem_Img/Axzel.png" style="
       width: 150px;
       height: 150px;
       object-fit: cover;
-      border: 3px solid #9d17eb;
+      border: 3px solid #063ffd;
       border-radius: 50%;
     " alt="My Chess Master">
 
@@ -40,18 +39,19 @@
     </div>
 
     <div class="mt-4">
-      <h4><b>Favorites:</b></h4>
-      <div class="d-flex justify-content-center flex-wrap gap-3">
-        <span class="badge bg-secondary fs-5">Valorant</span>
-        <span class="badge bg-secondary fs-5">Rhimson</span>
-        <span class="badge bg-secondary fs-5">Len</span>
-        <span class="badge bg-secondary fs-5">Pork Steak</span>
+      <h4><b>Favorite Things:</b></h4>
+      <div>
+        <span class="badge bg-primary fs-6">Valorant</span>
+        <span class="badge bg-primary fs-6">Rhimson</span>
+        <span class="badge bg-primary fs-6">Len</span>
+        <span class="badge bg-primary fs-6">Pork Steak</span>
+        <span class="badge bg-primary fs-6">His Girlfriend</span>
       </div>
     </div>
 
     <div class="mt-4">
       <h4><b>About:</b></h4>
-      <h5>The</h5>
+      <h5>One of my cafeteria foodie buddy. He is my master in chess and he thought me a lot about coding and programming</h5>
     </div>
   </div>
 
